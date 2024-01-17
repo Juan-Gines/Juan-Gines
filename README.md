@@ -6,14 +6,12 @@
 
 ### Tecnologías que manejo:
 
-- Frontend: HTML, CSS, JavaScript, React, 
-- Backend: Node.js, PHP, Laravel, C# .NET, Java
+- Frontend: HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Astro 
+- Backend: Node.js, PHP, Laravel, C#, .NET, Java
 
 ### Proyectos Destacados:
 
-1. [Nombre del Proyecto 1](enlace_al_proyecto1) - Breve descripción del proyecto.
-2. [Nombre del Proyecto 2](enlace_al_proyecto2) - Breve descripción del proyecto.
-3. [Nombre del Proyecto 3](enlace_al_proyecto3) - Breve descripción del proyecto.
+1. Alenta web https://alentaweb.vercel.app https://github.com/Juan-Gines/alentaweb - Mi web principal.
 
 ### Sobre mí:
 
@@ -21,7 +19,7 @@ Desde pequeño, he sentido una gran pasión por la tecnología y la programació
 
 ### Contáctame:
 
-- LinkedIn: (https://www.linkedin.com/in/juan-gines/)
-- Correo Electrónico: tu_email@example.com
+- LinkedIn: https://www.linkedin.com/in/juan-gines/
+- Correo Electrónico: juangalenta@hotmail.com
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
