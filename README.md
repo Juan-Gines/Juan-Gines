@@ -6,7 +6,7 @@
 
 ### Tecnologías que manejo:
 
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React, 
 - Backend: Node.js, PHP, Laravel, C# .NET, Java
 
 ### Proyectos Destacados:
@@ -21,7 +21,7 @@ Desde pequeño, he sentido una gran pasión por la tecnología y la programació
 
 ### Contáctame:
 
-- LinkedIn: [Juan Ginés Alentà Rodríguez](enlace_a_tu_perfil_de_LinkedIn)
+- LinkedIn: (https://www.linkedin.com/in/juan-gines/)
 - Correo Electrónico: tu_email@example.com
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
