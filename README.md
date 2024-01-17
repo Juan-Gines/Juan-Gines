@@ -11,7 +11,9 @@
 
 ### Proyectos Destacados:
 
-1. Alenta web https://alentaweb.vercel.app https://github.com/Juan-Gines/alentaweb - Mi web principal.
+1. Alenta web https://alentaweb.vercel.app - Mi proyecto de web (de momento solo funciona el sistema de usuarios con recuperacion y activacion por email)
+      - https://github.com/Juan-Gines/alentaweb - Código del frontend.
+      - https://github.com/Juan-Gines/server-alenta - Código del backend. 
 
 ### Sobre mí:
 
