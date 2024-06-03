@@ -1,6 +1,6 @@
 # ¡Hola, soy Juan Ginés Alentà Rodríguez! 👋
 
-## Desarrollador Fullstack | Apasionado por la tecnología desde pequeño
+## Desarrollador Fullstack | Apasionado por la tecnología.
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack con experiencia en diversas tecnologías y lenguajes de programación. Me encanta crear proyectos tanto para estudio como para producción, explorando el mundo de la programación desde diferentes perspectivas.
 
